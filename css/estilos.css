@@ -1,0 +1,58 @@
+
+/*css  basico*/
+body{
+
+}
+
+h1,h2,h3,h4,h5,h6{
+
+
+color:blue;
+font-family:arial;
+text-align:center;
+font-style: :100%;
+}
+
+a{
+color:blue;
+text-decoration:none;
+text-align:center;
+font-style:100%;
+}
+a:hover{
+color:black;
+}
+
+p{
+	color:rgb(45,43,22);
+font-family:arial;
+text-align:center;
+text-align:justify;
+padding:8%;
+
+}
+
+img{
+
+	border-radius:50%;
+
+}
+/*fin del css basico*/
+
+/*clases botones*/
+
+
+.boton_normal{
+background:rgb(46,46,46);
+border:none;
+color:white;
+font-style:100%;
+font-family:arial;
+padding:1% 1%;
+}
+.boton_normal:hover{
+	border:2px solid rgb(46,46,43);
+	background:transparent;
+	cursor:pointer;
+	color:black;
+}
